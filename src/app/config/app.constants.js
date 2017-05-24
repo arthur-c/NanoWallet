@@ -34,10 +34,10 @@ const AppConstants = {
     }, {
         name: "Русский",
         key: "ru"
-    }/*, {
+    }, {
         name: "Français",
         key: "fr"
-    }*/],
+    }],
 
 };
 
